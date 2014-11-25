@@ -1,0 +1,14 @@
+<resources xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <string name="app_name">Events</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="commentaar">De zes waren in mei opgepakt omdat de overheid de video te losbandig vond. De drie mannen en drie vrouwen playbackten in de video en dansten daarbij door de straten van de Iraanse hoofdstad Teheran. De vrouwen droegen geen hoofddoekjes1.\n 
+        De zes waren in mei opgepakt omdat de overheid de video te losbandig vond. De drie mannen en drie vrouwen playbackten in de video en dansten daarbij door de straten van de Iraanse hoofdstad Teheran. De vrouwen droegen geen hoofddoekjes2.\n 
+        De zes waren in mei opgepakt omdat de overheid de video te losbandig vond. De drie mannen en drie vrouwen playbackten in de video en dansten daarbij door de straten van de Iraanse hoofdstad Teheran. De vrouwen droegen geen hoofddoekjes3.\n 
+        De zes waren in mei opgepakt omdat de overheid de video te losbandig vond. De drie mannen en drie vrouwen playbackten in de video en dansten daarbij door de straten van de Iraanse hoofdstad Teheran. De vrouwen droegen geen hoofddoekjes4.</string>
+    <string name="commentaar2">De jongeren werden na een dag vrijgelaten, maar zijn nu toch veroordeeld. Twee van hen hebben op de staatstelevisie gezegd dat ze spijt hebben van hun actie. De Iraanse politiechef waarschuwde iedereen die zo\'n video wil maken om dat niet te doen.5</string>
+    <string name="eventimage">eventimage</string>
+    <string name="exampleTextLL">Woensdag 31 december sluiten we het jaar 2014 weer gezellig op z\'n Surinaams af tijdens de jaarlijkse OWRU YARI BAKKA\'NA Party powered by Borgoe! Voor deze speciale oudejaarseditie van 14.00u - 21.00u in de Maassilo hebben we de beste Suri artiesten te gast zoals Gio, La Fiesta, Ondrofeni.</string>
+    <string name="partInfo">Information of Event or Party</string>
+
+</resources>

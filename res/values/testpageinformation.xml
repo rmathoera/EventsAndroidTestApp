@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="events">
+        <item>Event dag 1112131</item>
+        <item>Evenet dag 32312</item>
+    </string-array>
+
+</resources>

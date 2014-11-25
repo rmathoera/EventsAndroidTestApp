@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EventsFromFacebookPage"
+    tools:ignore="UselessParent" >
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:id="@+id/linLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:scrollbarStyle="insideOverlay"
+            android:scrollbars="horizontal" >
+
+            <TextView
+                android:id="@+id/commentaar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/iconsd"
+                android:text="@string/commentaar"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:visibility="visible"
+                tools:ignore="InefficientWeight" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

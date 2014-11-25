@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+Hier staat agenda lijst.
+
+</agenda><events>
+
+    <event>
+Dag 1
+
+        <planner>
+JamesBond
+        </planner>
+
+        <starttime>
+22:00
+        </starttime>
+
+        <endtime>
+04:00
+        </endtime>
+
+        <price>
+25.00
+        </price>
+    </event>
+
+    <event>
+Dag 2
+    </event>
+
+    <event>
+Dag 3
+    </event>
+
+    <event>
+Dag 4
+
+        <planner>
+JamesBond
+        </planner>
+
+        <starttime>
+22:00
+        </starttime>
+
+        <endtime>
+04:00
+        </endtime>
+
+        <price>
+25.00
+        </price>
+    </event>
+
+    <event>
+Dag 5
+    </event>
+
+    <event>
+Dag 6
+    </event>
+
+    <event>
+Dag 7
+    </event>
+
+</events><disclaimer>
+
+    <header>
+hahaha
+    </header>
+
+    <bodytext>
+whalla.iiiidjdjdj
+    </bodytext>
+
+</disclaimer>
